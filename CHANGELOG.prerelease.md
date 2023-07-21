@@ -1,3 +1,7 @@
+## 7.2.0-alpha.1
+
+- CLI: Gracefully shutdown and cleanup execa child processes - [#23538](https://github.com/storybookjs/storybook/pull/23538), thanks [@valentinpalkovic](https://github.com/valentinpalkovic)!
+
 ## 7.2.0-alpha.0
 
 - Angular: Make enableProdMode optional - [#23489](https://github.com/storybookjs/storybook/pull/23489), thanks [@valentinpalkovic](https://github.com/valentinpalkovic)!
